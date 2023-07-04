@@ -4,4 +4,5 @@ Included is an NFO listing detailing the information needed to identify the FatG
 
 <https://www.youtube.com/watch?v=JQz5l55qtsY>  
 
-In closing, thank you.
+
+$${\color{#b5deda}-In-closing,-thank-you.-}$$
